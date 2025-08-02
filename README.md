@@ -1,2 +1,3 @@
-﻿# p.o.s
+﻿# smart-pos
+
 
