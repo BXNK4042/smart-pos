@@ -1,0 +1,6 @@
+Frontend
+    -React.js
+Server
+    -Express.js
+Database
+    -MongoDB
