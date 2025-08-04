@@ -1,3 +1,23 @@
 1)MH-ET Scanner
 2)Batteries
 3)QR-Reader
+
+-----Price Scanner-----
+QR read
+Data check
+stocking change(can set amount)(cancel include)
+get price(can cal total product cost)
+terminal display(by scanner device)
+
+-----Stocking Scanner-----
+QR read
+Data check
+if not in list
+add new stock number in waiting form
+input info by human(in main server)
+
+QR read
+Data check
+if in list
+add amount in remain stock
+can set amount by human(by scanner device)
