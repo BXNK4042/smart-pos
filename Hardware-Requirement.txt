@@ -21,3 +21,5 @@ Data check
 if in list
 add amount in remain stock
 can set amount by human(by scanner device)
+
+Test
